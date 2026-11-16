@@ -3,9 +3,9 @@
 I break and secure AI systems: LLM applications, agents, and the MCP servers that connect them to real tools. Spent 5+ years in web, mobile and network penetration testing before shifting to AI security.
 
 ### What I work on
-MCP and agent security: server definitions, tool poisoning, authorization between agents and tools, supply chain
-AI red teaming: prompt injection (direct and indirect), excessive agency, data exfiltration through tools
-Turning findings into controls: threat models, guardrails, detection rules, and alignment with SOC 2, ISO 27001, NIS2 and DORA
+- MCP and agent security: server definitions, tool poisoning, authorization between agents and tools, supply chain
+- AI red teaming: prompt injection (direct and indirect), excessive agency, data exfiltration through tools
+- Turning findings into controls: threat models, guardrails, detection rules, and alignment with SOC 2, ISO 27001, NIS2 and DORA
 
 ### Featured work
 | Project | What it is |
